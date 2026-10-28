@@ -1,0 +1,7 @@
+
+Week 9 - Chatbot Development
+Project: Building an Interactive AI Chatbot using Ollama
+Language: Python
+LLM Framework: Ollama
+
+Chatbot logs will be recorded here during execution.
